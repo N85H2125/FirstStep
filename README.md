@@ -1,13 +1,11 @@
-# My 3D Models
+# 🧪 Programming Experiments & Learning
 
-I'm learning 3D modeling in Fusion 360.
+## 🔬 Lab Notebook
+This repository contains all my programming experiments, half-finished projects, and learning attempts. It's messy, unorganized, but shows real learning.
 
-## How to view:
-1. .jpg files — screenshots of models
-2. .step files — 3D files (open in Fusion 360 or any CAD software)
-
-## Contact:
-telegram [@Privyazat]
+## 🔗 Professional Work
+For complete, documented projects:  
+**NOT YET**
 
 ---
-Updated as I create new models.
+*"The only way to learn programming is to write lots of code"*
