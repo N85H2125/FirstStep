@@ -7,7 +7,7 @@ I'm learning 3D modeling in Fusion 360.
 2. .step files — 3D files (open in Fusion 360 or any CAD software)
 
 ## Contact:
-telegram [@Zaviazat]
+telegram [@Privyazat]
 
 ---
 Updated as I create new models.
